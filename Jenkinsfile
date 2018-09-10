@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Example') {
             steps {
-                echo 'Ho World'
+                echo 'where  World'
             }
         }
     }
