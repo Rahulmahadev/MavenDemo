@@ -1,10 +1,2 @@
-pipeline {
-    agent any
-    stages {
-        stage('Example') {
-            steps {
-                echo 'america'
-            }
-        }
-    }
-}
+Hello!
+How are you!
