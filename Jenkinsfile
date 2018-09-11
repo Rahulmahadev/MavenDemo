@@ -8,7 +8,7 @@ pipeline {
                 ok "Yes, we should."
                 
                 parameters {
-                    string(name: 'PERSON', defaultValue: 'Mr nikhil', description: 'Who should I say hello to?')
+                    string(name: 'PERSON', defaultValue: 'Mr Nikhil', description: 'Who should I say hello to?')
                 }
             }
             steps {
